@@ -1,0 +1,4 @@
+software_timer.c:17:6:setTimer	16	static
+software_timer.c:22:6:timeRun	16	static
+software_timer.c:33:9:getTimerFlag	16	static
+software_timer.c:36:6:setTimerFlag	16	static
